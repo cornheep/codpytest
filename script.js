@@ -1,4 +1,4 @@
-alert("JS is working!");
+// alert("JS is working!");
 
 
 const CATEGORIES = {
